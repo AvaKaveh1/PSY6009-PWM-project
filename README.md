@@ -11,6 +11,8 @@ The analysis was perfomed in R using the following packages:
 The files above include:
 
 Data = Original data Time 1 and Time 2 data sets before any cleaning.
-PSY6009 analysis script = The R script to run and perform the analysis
+
+PSY6009 analysis script = The R script to run and perform the analysis.
+
 
 
