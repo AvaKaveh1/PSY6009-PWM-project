@@ -9,5 +9,6 @@ The analysis was perfomed in R using the following packages:
 - Lavaan
 
 The files above include:
+
 Data = Original data Time 1 and Time 2 data sets before any cleaning
 
