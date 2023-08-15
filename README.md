@@ -12,6 +12,7 @@ The files above include:
 
 Prototype Willingness model and Reuse_July 22, 2023_05.04.xlsx = Original Time 1 data set before any cleaning.
 
+Time 2 Prototype Willingness Model_July 27, 2023_08.37.csv = Original Time 2 data set before any cleaning. 
 
 PSY6009 analysis script = The R script to run and perform the analysis.
 
