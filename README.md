@@ -14,5 +14,8 @@ Data = Original data Time 1 and Time 2 data sets before any cleaning.
 
 PSY6009 analysis script = The R script to run and perform the analysis.
 
+PSY6009 codebook = A codebook detailing the meanings behind the variables of the final data set (which will be created through the R script after data handling).
+
+
 
 
